@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "ListarAusencias";
+}
+
+@if (ViewBag.userType != "Empleado")
+{
+    <h3>Usted no tiene permisos para ver esta funcionalidad.</h3>
+}
+else
+{
+    if (ViewBag.lista.Count != 0)
+    {
+    <table border="1">
+        <thead>
+            <tr>
+                <td>Proyecto</td>
+                <td>Horas de ausencia</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var a in ViewBag.lista)
+            {
+                <tr>
+                    <td>@a.Proyecto.Nombre</td>
+                    <td>@a.HorasAusencia</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    }
+    else
+    {
+    <h3>Usted no tiene ausencias en ningún proyecto.</h3>
+    }
+}
+

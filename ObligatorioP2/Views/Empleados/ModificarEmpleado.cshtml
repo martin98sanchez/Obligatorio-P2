@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "Modificar Empleado";
+}
+
+@if (ViewBag.msg != null)
+{
+    <p class="text-danger">@ViewBag.msg</p>
+}
+
+@if (ViewBag.userType != "Administrador")
+{
+    <h3>Usted no tiene permisos para ver esta funcionalidad.</h3>
+}
+else
+{
+
+    <form class="form" method="post">
+        <fieldset id="columnaUno">
+            <div>
+                <label class="crearEmpleado-label">Código Empleado (*)</label>
+                <input type="text" id="idEmpleado" name="idEmpleado"  placeholder="Código Empleado (*)" value="@ViewBag.Empleado.Id" required disabled>
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Cédula Empleado (*)</label>
+                <input type="text" id="cedulaEmpleado" name="cedulaEmpleado" placeholder="Cédula Empleado (*)" value="@ViewBag.Empleado.Ci" required disabled>
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Nombre Completo (*)</label>
+                <input type="text" id="nombreCompleto" name="nombreCompleto" placeholder="Nombre Completo (*)" value="@ViewBag.Empleado.NombreCompleto" required>
+            </div>
+        
+            <label id="lblCamposObligatorios">(*) Campos Obligatorios</label>
+        </fieldset>
+        <fieldset id="columnaDos">
+            <div>
+                <label class="crearEmpleado-label">Fecha de Nacimiento</label>
+                <input type="date" id="fechaNacimiento" name="fechaNacimiento" placeholder="Fecha de Nacimiento" value="@ViewBag.Empleado.FechaNacimiento.ToString("yyyy-MM-dd")" />
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Fecha de Contratación</label>
+                <input type="date" id="fechaContratacion" name="fechaContratacion" placeholder="Fecha de Contratación" value="@ViewBag.Empleado.FechaContratacion.ToString("yyyy-MM-dd")" />
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Sueldo</label>
+                <input type="number" placeholder="Sueldo (*)" id="sueldo" name="sueldo" value="@ViewBag.Empleado.Sueldo" required />
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Categoría</label>
+                    <select id="categoria" name="categoria"  >
+                        @foreach (var cat in ViewBag.Categorias)
+                        {
+                            if (cat == @ViewBag.Empleado.Categoria)
+                            {
+                                <option id="@cat" selected>@cat</option>
+                            }
+                            else
+                            {
+                                <option id="@cat">@cat</option>
+                            }
+                        }
+                    </select>
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Nombre de usuario</label>
+                <input type="text" id="nombreUsuario" name="nombreUsuario" placeholder="Nombre de usuario" value="@ViewBag.Empleado.Username" required disabled>
+            </div>
+            <div id="botones">
+                <input type="submit" id="crear" value="MODIFICAR">
+            </div>
+        </fieldset>
+    </form>
+}

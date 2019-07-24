@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "ListaEmpleadosDeProyecto";
+}
+
+<table border="1">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Ci</td>
+            <td>Nombre</td>
+            <td>Fecha De Nacimiento</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in ViewBag.Lista)
+        {
+            <tr>
+                <td>@e.Id</td>
+                <td>@e.Ci</td>
+                <td>@e.Nombre</td>
+                <td>@e.FechaNacimiento</td>
+            </tr>
+        }
+    </tbody>
+</table>

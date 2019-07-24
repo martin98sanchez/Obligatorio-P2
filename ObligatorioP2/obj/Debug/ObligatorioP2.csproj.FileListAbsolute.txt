@@ -1,0 +1,370 @@
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\ApplicationInsights.config
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\csc.exe
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\vbc.exe
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\VBCSCompiler.exe
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\ObligatorioP2.dll.config
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\ObligatorioP2.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\ObligatorioP2.pdb
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Antlr3.Runtime.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\EntityFramework.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\EntityFramework.SqlServer.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.Web.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Newtonsoft.Json.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Owin.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Helpers.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Mvc.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Optimization.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Razor.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Deployment.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Razor.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\WebGrease.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.Web.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Helpers.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Mvc.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Optimization.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.Razor.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Deployment.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Razor.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Antlr3.Runtime.pdb
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Newtonsoft.Json.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\EntityFramework.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\EntityFramework.SqlServer.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csprojResolveAssemblyReference.cache
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.dll
+c:\users\alumnofi\documents\visual studio 2015\Projects\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\ApplicationInsights.config
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\csc.exe
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\vbc.exe
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\ObligatorioP2.dll.config
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\ObligatorioP2.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Antlr3.Runtime.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\EntityFramework.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\EntityFramework.SqlServer.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.Web.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Newtonsoft.Json.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Owin.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Helpers.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Mvc.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Optimization.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Razor.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Razor.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\WebGrease.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.Web.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Helpers.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Mvc.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Optimization.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.Razor.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\System.Web.WebPages.Razor.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Antlr3.Runtime.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Newtonsoft.Json.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\EntityFramework.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\EntityFramework.SqlServer.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csprojResolveAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-20190618T224958Z-001\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\ApplicationInsights.config
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\csc.exe
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\vbc.exe
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\ObligatorioP2.dll.config
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\ObligatorioP2.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\ObligatorioP2.pdb
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Antlr3.Runtime.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Dominio.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\EntityFramework.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\EntityFramework.SqlServer.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.Web.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Newtonsoft.Json.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Owin.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Helpers.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Mvc.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Optimization.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Razor.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.WebPages.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\WebGrease.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Dominio.pdb
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.Web.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Helpers.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Mvc.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Optimization.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.Razor.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.WebPages.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Antlr3.Runtime.pdb
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Newtonsoft.Json.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\EntityFramework.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\EntityFramework.SqlServer.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\System.Web.Razor.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\EntityFramework.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\obj\Debug\ObligatorioP2.csprojResolveAssemblyReference.cache
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\obj\Debug\ObligatorioP2.dll
+C:\Users\Kadabra\Downloads\obligatorio\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\ApplicationInsights.config
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\csc.exe
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\vbc.exe
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\ObligatorioP2.dll.config
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\ObligatorioP2.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Antlr3.Runtime.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Dominio.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\EntityFramework.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\EntityFramework.SqlServer.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.Web.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Newtonsoft.Json.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Owin.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Helpers.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Mvc.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Optimization.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Razor.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.WebPages.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Razor.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\WebGrease.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Dominio.pdb
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.Web.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Helpers.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Mvc.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Optimization.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.Razor.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.WebPages.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\System.Web.WebPages.Razor.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Antlr3.Runtime.pdb
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Newtonsoft.Json.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\EntityFramework.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\EntityFramework.SqlServer.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\System.Web.Razor.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\EntityFramework.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\obj\Debug\ObligatorioP2.csprojResolveAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\obj\Debug\ObligatorioP2.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\ObligatorioP2\obj\Debug\ObligatorioP2.pdb

@@ -1,0 +1,37 @@
+﻿
+
+@{
+    ViewBag.Title = "Lista de Empleados";
+}
+
+<section id="contenedor">
+    @if (ViewBag.userType != "Cliente")
+    {
+        <h3>Usted no tiene permisos para ver esta funcionalidad.</h3>
+    }
+    else
+    {
+ 
+        <table>
+            <tr id="headerTabla">
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Categoria</th>
+                <th>Sueldo</th>
+            </tr>
+            @foreach (var e in ViewBag.lista)
+            {
+                <tr>
+                    <th>@e.Id</th>
+                    <th>@e.NombreCompleto</th>
+                    <th>@e.Categoria</th>
+                    <th>@e.Sueldo</th>
+                </tr>
+            }
+        </table>
+
+    }
+</section>
+
+
+

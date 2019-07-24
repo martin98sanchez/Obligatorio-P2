@@ -1,0 +1,789 @@
+* { /* Fuente por defecto para todas las páginas */
+    font-family: 'Montserrat', sans-serif;
+}
+body{ /* Dimensiones del body  */
+    width: 1580px;
+    height: 1000px;
+}
+
+
+/*
+----------------------------------------------------
+                      LOGIN  
+----------------------------------------------------
+*/
+
+
+
+.fondo-gris{ /* Color de fondo del login */
+    background-color: #e1e1e1;
+}
+
+#principal input { /* Campos "input" en el login */
+    font-size: 16px;
+    padding: 14px;
+    width: 320px;
+    margin-bottom: 20px;
+    background-color: #e1e1e1;
+    display: block;  
+    border: none;
+}
+
+#principal #btnLogin { /* Botón de LOGIN */
+    font-family: 'Source Code Pro', monospace;
+    background-color: #cdcdcd;
+    text-align: center;
+    letter-spacing: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 150px;
+    margin: auto;
+    color: white;
+    margin-top: 40px;
+    font-size: 20px;
+}
+#principal img { /* Logo de la empresa en el login */
+    margin-bottom: 25px;
+}
+
+#principal{ /* Cuadrado principal en el login */
+    margin: 170px 0px 150px 550px;
+    text-align: center;
+    display: inline-block;
+    padding: 30px 100px 75px 100px;
+    background-color: #eeeeee;
+
+}
+
+footer p{ /* Texto del footer en el login */
+    float: left;
+    color: #121212;
+}
+
+.circulos-agrupados img{ /* imagenes con las redes sociales  */
+    float:right;
+    width: 50px;
+    height: 50px;
+}
+
+.circulos-agrupados{ /* Agrupación para las redes sociales  */
+    float:right;
+}
+
+
+#principal input::placeholder { /* PlaceHolder para Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #c2c2c2;
+    opacity: 1; /* Firefox */
+}
+
+#principal input:-ms-input-placeholder { /* PlaceHolder para Internet Explorer 10-11 */
+    color: #c2c2c2;
+}
+
+#principal input::-ms-input-placeholder { /* PlaceHolder para Microsoft Edge */
+    color: #c2c2c2;
+}
+
+
+/*
+----------------------------------------------------
+                      CREAR EMPLEADO
+----------------------------------------------------
+*/
+
+#crearEmpleado-body fieldset { /* Quita los bordes a los fieldsets  */
+    border: none;
+}
+.nav{ /* Menú de navegación */
+    float: left;
+    width: 300px;
+    height: 1000px;
+    background-color: #e0e0e0;
+}
+
+.nav #logo { /* Contenedor del logo de la empresa en el menú de navegación  */
+    padding-bottom: 6px;
+    padding-top: 5px;
+    background-color: #c6c6c6;
+    padding-left: 35px;
+    height: 90px;
+}
+.nav #logo img { /* Logo de la empresa para el menú */
+    height: 70px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.nav nav ul{ /* Menú  */
+    padding-left: 0px;
+}
+
+.nav nav ul li{  /* Items del menú */
+    list-style-type: none;
+}
+
+.nav nav ul li a{ /* hipervínculos del menú */
+    display:block;
+    padding: 15px 60px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav nav ul li.seleccionado{ /* Item seleccionado del menú */
+    background-color: #b7b7b7;
+    color: white;
+}
+.nav nav ul li.seleccionado a{ /* Hipervínculo del item seleccionado */
+    color: white;
+}
+
+.header{ /* Contenedor del header de la página */
+    height: 90px;
+    padding-bottom: 6px;
+    padding-top: 5px;
+    margin: 0px 40px 0px 350px;
+    border-bottom: 1px solid #cecece;
+}
+.header header{ /* Header de la página */
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.header h1{ /* Título de la página */
+    color: black;
+}
+
+.header #usuario{ /* Contenedor del nombre de usuario y foto de perfil */
+    float: right;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.header #usuario *{ /* Items dentro del contenedor del usuario */
+    float: right;
+    padding-right: 20px;
+    color: #cecece;
+}
+
+#crearEmpleado-body #contenido{ /* Contenido dinámico de la página */
+    float: left;
+    margin-left: 40px;
+    color: #cecece;
+}
+
+.form{ /* Formulario para la creación del empleado */
+    margin-right: 300px;
+    border-style: solid;
+    border-width: 1px;
+    width: 900px;
+    height: 570px;
+    padding: 30px 0px 0px 20px;
+}
+
+.form #columnaUno input,
+.form #columnaUno textarea{ /* Campos de ingreso de texto en el alta del empleado */
+    display: block;
+    margin-bottom: 40px;
+    width: 350px;
+    font-size: 15px;
+    padding-left: 10px;
+    background-color: #dedede;
+    border: none;
+    padding-top: 5px;
+}    
+
+.form #columnaUno textarea { /* Comentarios en el alta del empleado */
+    resize: none;
+    padding-top: 10px;
+}
+
+.form #columnaUno input{ /* TextFields en el alta del empleado */
+    height: 50px;
+}
+
+.form #columnaUno{ /* Columna de la izquierda en el form */
+    float: left;
+}
+
+.form #columnaDos{ /* Columna de la derecha en el form */
+    float: left;
+    margin-left: 35px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+#crearEmpleado-body #lblCamposObligatorios { /* Etiqueta de los campos obligatorios */
+    display: block;
+    margin-top: 34px;
+}
+
+#crearEmpleado-body .crearEmpleado-label { /* Etiqueta de los campos del form */
+    margin-right: 35px;
+}
+
+#crearEmpleado-body #columnaDos div { /* Contenedores en la segunda columna del form */
+    margin-bottom: 50px;
+}
+
+  
+#crearEmpleado-body #columnaDos #grupoCargos [name='diseniador'],
+#crearEmpleado-body #columnaDos #grupoCargos [name='maquetador']{ /* Corrección del margen en los checkbox de cargos */
+    margin-left: 0px;
+}
+
+#crearEmpleado-body input[type="radio"][name="sexo"][value="femenino"]{ /* Correción del margen en el combobox de sexo */
+    margin-left: 30px;
+}
+
+#crearEmpleado-body #columnaDos #grupoCargos #chkMaquetador{ /* Corrección del margen en los checkbox de cargos */
+    margin-top: 15px;
+    margin-left: 83px;
+}
+
+#crearEmpleado-body #campoFoto input { /* Selector de imagen */
+    margin-left: 11px;
+}
+
+#crearEmpleado-body #columnaDos .crearEmpleado-label{ /* Todas las etiquetas del form */
+    float: left;
+    color: #787878;
+    font-weight: bold;
+}
+#crearEmpleado-body #campoSexo .crearEmpleado-label { /* Únicamente la etiqueta "Sexo" */
+    margin-right: 40px;
+}
+
+
+#crearEmpleado-body #columnaDos #botones { /* Contenedor de los botones de 'Limpiar' y 'Crear' */
+    margin-top: 100px;
+}
+
+
+#crearEmpleado-body #limpiar, #crearEmpleado-body #crear { /* botones de 'Limpiar' y 'Crear' */
+    border: none;
+    height: 65px;
+}
+
+#crearEmpleado-body #limpiar{ /* boton de 'limpiar' */
+    width: 150px;
+    background-color: transparent;
+    color: black;
+    font-size: 15px;
+    letter-spacing: 2px;
+    
+}
+#crearEmpleado-body #crear { /* Boton de 'crear' */
+    background-color: #cdcdcd;
+    color: white;
+    font-size: 40px;
+    width: 250px;
+    letter-spacing: 10px;
+  
+}
+
+
+.negrita { /* Texto en negrita */
+    font-weight:bold;
+    color: black;
+}
+#crearEmpleado-body #contenido p{ /* Parrafos dentro del contenido del alta de empleado */
+    margin: 30px 0px 20px 0px;
+}
+
+#crearEmpleado-body .circulos-agrupados { /* Margen entre las redes sociales y el contenido  */
+    margin-top: 100px;
+}
+
+
+/*
+----------------------------------------------------
+DASHBOARD                     
+----------------------------------------------------
+*/
+
+#dashboard-body section section { /* Secciones del dashboard */
+    border: 1px solid #cecece;
+    float: left;
+    margin-right: 50px;
+}
+
+.ingresos{ /* Item de la lista de ingresos */
+    background-color: #f4f4f4;
+    width: 160px;
+    display: inline-block; 
+    padding-bottom: 30px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    margin-right: 7px;
+}
+.ingresos p { /* Texto de los items en la lista */
+    text-align: center;
+}
+.ingresos img{ /* Foto de perfil de los items en la lista */
+    margin-left: 35px;
+    width: 90px;
+    height: 90px;
+}
+.btnEditar{ /* Botón de los items en la lista */
+    margin-left: 45px;
+    border: none;
+    background-color: #323232;
+    border-radius: 5px;
+    color: white;
+}
+#ultimosIngresos{ /* Contenedor de la lista (Sin el titulo) */
+    width: 340px;
+    height: 500px;
+    float: left;
+}
+
+#dashboard-body #contenido { /* Contenido de la página */
+    margin-left: 350px;
+}
+
+#dashboard-body h2{ /* Titulos de las secciones */
+    font-size: 20px;
+}
+#dashboard-body #ultIngresos{ /* Contenedor de la lista (Con el titulo) */
+    padding: 0px 10px 0px 20px;
+
+}
+#dashboard-body img { /* Setea por defecto las imágenes en forma circular */
+    border-radius: 300px;   
+}
+
+#dashboard-body #rankingDiseniadores { /* Contenedor de la lista (Sin el título */
+    width: 640px;
+    height: 210px;
+}
+
+#dashboard-body #rankDiseniadores { /* Contenedor de la lista (Con titulo) */
+    padding: 0px 20px 20px 20px;
+    width: 400px;
+}
+
+#dashboard-body table img{ /* Tamaño de las imagenes en el ranking */
+    width: 75px;
+    height: 75px;
+}
+#dashboard-body table td { /* Separación en la lista del ranking */
+    padding-right: 15px;
+}
+.verMas{ /* Texto de "ver más" en el ranking */
+    margin-top: 10px;
+    float: right;
+}
+
+#dashboard-body #notDia{ /* Noticia del día */
+    margin-top: 30px;
+    width: 400px;
+    height: 250px;
+    padding: 0px 20px 20px 20px;
+}
+
+#dashboard-body h3{ /* Título de la noticia */
+    font-size: 20px;
+    padding: 40px 0px 0px 120px; 
+    background-color: #c7c7c7;
+    height: 70px;
+}
+
+.filtro { /* Filtro de la lista de nuevos ingresos */
+    margin-top: 535px;
+}
+
+#dashboard-body .circulos-agrupados { /* Distancia entre las redes sociales y el contenido */
+    margin-top: 400px;
+}
+
+#listaFooter{ /* Distancia entre las redes sociales y el contenido */
+    margin-top: 870px;
+}
+
+
+
+body{ /* Margenes en 0 del index */
+    margin: 0px;
+}
+
+#index-header{ /* Header del index */
+    float:left;
+    height: 90px;
+    width: 100%;
+    background-color: rgb(170, 167, 167);
+}
+
+header nav{ /* Menú superior del index */
+    float:right;
+}
+
+header nav ul li{ /* Items del menú superior */
+    list-style-type: none;
+    float:right;
+    margin-right:50px;
+    margin-top:20px;
+}
+.migas{ /* Migas de pan */
+    text-decoration: none;
+    color: #cecece;
+}
+
+header nav ul li a{ /* Hipervinculos en el menú */
+    display:block;
+    padding: 20px 40px;
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 1px solid #000;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 10px 18px;
+}
+section { /* Secciones por defecto */
+    margin:0px;
+}
+section#index_principal{ /* Seccion del index */
+    clear: both;
+    background-color:rgb(170, 167, 167);
+    height: 350px;
+    padding-top: 100px;
+}
+
+
+section#index_principal p{ /* Parrafos en la seccion principar del index */
+    text-align: center;
+    font-size: 1cm;
+}
+
+
+section#index_Cliente2{ /* Clientes */
+    background-color: lightgrey;
+    padding-top: 20px;
+}
+
+section#index_Cliente2 h2{ /* Subtitulos en los clientes */
+    text-align: center;
+}
+
+section#index_Cliente2 p{ /* Parafos en los clientes */
+    text-align: center;
+}
+
+section#index_Cliente2 img{ /* Imagenes en los clientes */
+    width: 15%;
+    margin-left: 19px;
+    margin-bottom: 40px;
+}
+
+section#index_Servicios2{ /* Servicios */
+    padding-top:20px;
+}
+
+section#index_Servicios2 h2{ /* Subtitulos en los servicios */
+    text-align: center;
+}
+
+section#index_Servicios2 p{ /* Parrafos en los servicios */
+    text-align: center;
+}
+
+section#index_Servicios2 article{ /* Articulos en los servicios */
+    width: 20%;
+    padding: 30px;
+    float:left;
+}
+
+section#index_Servicios2 article h3{ /* Subtitulos en los servicios */
+    text-align: center;
+}
+
+section#index_Servicios2 article p{ /* Párrafos en los servicios */
+    text-align: justify;
+    font-size: 3mm;
+}
+
+section#index_Servicios2 article img{ /* Imagenes en los servicios */
+    display: block;
+    margin: 0px auto;
+    width: 70%;
+    border-radius: 300px;
+}
+
+section#index_Proyectos2{ /* Proyectos */
+    overflow: auto;
+    background-color: lightgrey;
+    width: 100%;
+}
+
+section#index_Proyectos2 h2{ /* Subtitulos en los proyectos */
+    text-align: center;
+}
+
+section#index_Proyectos2 p{ /* Párrafos en los proyectos */
+    text-align: center;
+}
+
+section#index_Proyectos2 article{ /* Articulos en los proyectos */
+    width: 20%;
+    padding: 30px;
+    float: left;
+}
+
+section#index_Proyectos2 article h3{ /* Subtitulos en los proyectos */
+    text-align: center;
+}
+
+section#index_Proyectos2 article p{ /* Parrafos en los proyectos */
+    text-align: justify;
+    font-size: 3mm;
+}
+
+section#index_Proyectos2 article img{ /* Imagenes de los proyectos */
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+}
+
+section#index_Contacto2{ /* Contacto */
+    margin-left: 460px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+section#index_Contacto2 h2{ /* Subtitulo en el Contacto */
+    text-align: center;
+    padding-right: 20px;
+}
+
+section#index_Contacto2 p{ /* Parrafos en el Contacto */
+    text-align: center;
+}
+
+section#index_Contacto2 #txtContacto{ /* Campo texto en el contacto */
+    width: 32%;
+    height: 20px;
+    margin-bottom: 15px;
+    margin-left: 90px;
+    background-color: lightgrey;
+    display: block;
+    border: none;
+    padding: 5px;
+    float: left;
+}
+
+section#index_Contacto2 #txtContacto2{ /* Campo texto en el contacto */
+    width: 32%;
+    height: 20px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    background-color: lightgrey;
+    display: block;
+    border: none;
+    padding: 5px;
+    float: left;
+}
+
+section#index_Contacto2 #txtCuadroDeTexto{ /* campo texto en el contacto */
+    background-color: lightgrey;
+    border: none;
+    height: 50px;
+    width: 70%;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+
+
+section#index_Contacto2 #btnLorem{ /* Botón de enviar mensaje al administrador */
+    width: 100px;
+    height: 30px;
+    background-color: rgb(170, 167, 167);
+    border: none;
+    color: white;
+}
+
+section#listarEmpleados{ /* Lista de empleados */
+    height: 90px;
+    padding-bottom: 6px;
+    padding-top: 5px;
+    margin: 0px 40px 0px 330px;
+    border-bottom: 1px solid black;
+}
+
+section#listarEmpleados header h1{ /* Subtitulos en la lista de empleados */
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: black;
+}
+
+section#listarEmpleados div{ /* Contenedores en la lista de empleados */
+    float: right;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+
+section#listarEmpleados img{ /* Imagenes en la lista de empleados */
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+section#listarEmpleados p{ /* Parrafos en la lista de empleados */
+    float: right;
+    padding-bottom: 12px;
+    font-size: 5mm;
+    color: lightgrey;
+}
+
+section#contenedor{ /* Contenedor en la lista de empleados */
+    float: left;
+    margin-left: 40px;
+}
+
+section#contenedor #listarEmpleadosDashboard{ /* Migas en la lista de empleados */
+    color: lightgrey;
+    font-size: 6mm;
+    margin-bottom: 25px;
+}
+
+section#contenedor table{ /* Tablas en la lista de empleados */
+    width: 1200px;
+}
+
+section#contenedor table tr th{ /* Contenido de la lista */
+    margin: 0px auto;
+}
+
+section#contenedor table *{ /* Contenido de la lista */
+    border-color: transparent;
+}
+
+section#contenedor table tr td{ /* Contenido de la lista */
+    text-align: center;
+}
+
+.D{ /* Etiqueta de cargos */
+    color: white;
+    background-color: black;
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+    padding: 3px 10px 3px 10px;
+    font-size: 4mm;
+    border-radius: 6px;
+}
+
+.T{ /* Etiqueta de cargos */
+    color: white;
+    background-color: red;
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+    padding: 3px 10px 3px 10px;
+    font-size: 4mm;
+    border-radius: 6px;
+}
+
+.E{ /* Etiqueta de cargos */
+    color: white;
+    background-color: blue;
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+    padding: 3px 10px 3px 10px;
+    font-size: 4mm;
+    border-radius: 6px;
+}
+
+.DG{ /* Etiqueta de cargos */
+    color: black;
+    background-color: greenyellow;
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+    padding: 3px 10px 3px 10px;
+    font-size: 4mm;
+    border-radius: 6px;
+}
+
+.M{ /* Etiqueta de cargos */
+    color: white;
+    background-color: brown;
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+    padding: 3px 10px 3px 10px;
+    font-size: 4mm;
+    border-radius: 6px;
+}
+
+section#contenedor table tr td img{ /* Imagenes en la lista */
+    border-radius: 300px;
+    display: block;
+    margin: 0px auto;
+}
+
+section#contenedor table tr td .EEB{ 
+    float: right;
+}
+
+.empleadoColoreado{ /* Filas impares de la tabla */
+    background-color: lightgrey;
+}
+
+/*HOVER en los botones e items del menu*/
+header nav ul li a:hover {
+    color: white;
+    background-color: grey;
+    transition: 0.5s;
+}
+
+.nav nav ul li a:hover{
+    color: red;
+    background-color: grey;
+    transition: 0.5s;
+}
+
+.migas:hover{
+    color: red;
+    background-color: grey;
+    transition: 0.5s;
+}
+
+#crearEmpleado-body #crear:hover{
+    background-color: white;
+    color: #cdcdcd;
+    border: 1px solid black;
+    transition: 0.5s;
+}
+
+#principal #btnLogin:hover {
+    background-color: white;
+    color: #cdcdcd;
+    transition: 0.5s;
+}
+
+section#index_Contacto2 #btnLorem:hover{ 
+    transition: 0.5s;
+    background-color: white;
+    color: rgb(170, 167, 167);
+    border: 1px solid rgb(170, 167, 167);
+}
+
+
+
+section#contenedor table #headerTabla th #txtBuscador{ /* Buscador */
+    display:block;
+    float: right;
+    height: 25px;
+    background-color: lightgrey;
+    background-image: url(Imagenes/iconoBuscar.png);
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    padding-left: 30px;
+}

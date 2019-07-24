@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Login - SoftwORT</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap" rel="stylesheet">
+    <link href="~/Content/index.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="/index.css">
+</head>
+<body class="fondo-gris">
+    <section id="principal">
+        @if (ViewBag.msg != null)
+        {
+            <p class="text-danger">@ViewBag.msg</p>
+        }
+        <form method="post">
+            <a href="#"><img src="~/Content/Imagenes/logo.png" alt="SoftwORT" /></a>
+            <input type="text" id="txtUsuario" name="txtUsuario" placeholder="Usuario" />
+            <input type="password" id="txtContrasenia" name="txtContrasenia" placeholder="Contraseña" />
+            <input type="submit" id="btnLogin" value="LOGIN" />
+        </form>
+    </section>
+    <footer>
+        <p>Sitio SoftwORT</p>
+        <div class="circulos-agrupados">
+            <img src="~/Content/Imagenes/facebook.svg" alt="Facebook" />
+            <img src="~/Content/Imagenes/instagram.svg" alt="Instagram" />
+            <img src="~/Content/Imagenes/twitter.svg" alt="Twitter" />
+        </div>
+    </footer>
+</body>

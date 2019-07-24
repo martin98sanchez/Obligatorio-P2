@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Lista de Proyectos";
+}
+
+<table border="1">
+    <thead >
+        <tr>
+            <td>Nombre</td>
+            <td>Duración estimada</td>
+            <td>Fecha Comienzo</td>
+            <td>Finalizado</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in ViewBag.Lista)
+        {
+            <tr>
+                <td>@p.Nombre</td>
+                <td>@p.DuracionEstimada</td>
+                <td>@p.FechaComienzo.ToString("MM/dd/yyyy")</td>
+                @if (p.Finalizado)
+                {
+                <td>SI</td>
+                }
+                else
+                {
+                    <td>NO</td>
+                }
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Listar Proyectos";
+}
+
+<table border="1">
+    <thead>
+        <tr>
+            <td>Nombre</td>
+            <td>Fecha Comienzo</td>
+            <td>Fecha Finalizacion</td>
+            <td>Costo Total</td>
+            <td>Lista Empleados</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in ViewBag.Lista)
+        {
+            string mensaje = "PROYECTO NO FINALIZADO";
+            <tr>
+                <td>@p.Nombre</td>
+                <td>@p.FechaComienzo</td>
+                <td>
+                    @if (@p.Finalizado == false)
+                    {
+                        @mensaje;
+                    }
+                    else
+                    {
+                        @p.FechaFinalizacion
+                    }
+                </td>
+                <td>
+                    @if (@p.Finalizado == false)
+                    {
+                        @mensaje;
+                    }
+                    else
+                    {
+                        @p.CostoFinal
+                    }
+                </td>
+                <td>
+                    <form method="post">
+                        <input type="hidden" name="id" value="@p.Nombre"/>
+                        <input type="submit" value="Empleados" name="botonSubmit" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

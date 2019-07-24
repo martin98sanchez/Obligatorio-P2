@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Lista de Empleados";
+}
+
+<section id="contenedor">
+    @if (ViewBag.userType != "Administrador")
+    {
+        <h3>Usted no tiene permisos para ver esta funcionalidad.</h3>
+    }
+    else
+    {
+        <input type="button" value="Agregar" onclick="location.href='/admin/empleados/crear'" />
+        if(ViewBag.msg != null)
+        {
+            <p class="text-danger">@ViewBag.msg</p>
+        }
+        <table>
+            <tr id="headerTabla">
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Categoria</th>
+                <th>Sueldo</th>
+                <th>Acción</th>
+            </tr>
+            @foreach (var e in ViewBag.lista)
+            {
+                <tr>
+                    <th>@e.Id</th>
+                    <th>@e.NombreCompleto</th>
+                    <th>@e.Categoria</th>
+                    <th>@e.Sueldo</th>
+                    <th>
+                        <form method="post">
+                            <input type="hidden" name="id" value="@e.Id" />
+                            <input type="submit" value="Modificar" name="submitButton" />
+                            <input type="submit" value="Eliminar" name="submitButton" />
+                        </form>
+                    </th>
+                </tr>
+            }
+        </table>
+
+    }
+</section>
+

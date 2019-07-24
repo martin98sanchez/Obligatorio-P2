@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "Crear Empleado";
+    ViewBag.TipoUsuario = "Empleado";
+}
+
+@if (ViewBag.msg != null)
+{
+    <p class="text-danger">@ViewBag.msg</p>
+}
+
+@if (ViewBag.userType != "Administrador")
+{
+    <h3>Usted no tiene permisos para ver esta funcionalidad.</h3>
+}
+else
+{
+    <form class="form" method="post">
+        <fieldset id="columnaUno">
+            <div>
+                <label class="crearEmpleado-label">Cédula Empleado (*)</label>
+                <input type="text" id="cedulaEmpleado" name="cedulaEmpleado" placeholder="Cédula Empleado (*)" required>
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Nombre Completo (*)</label>
+                <input type="text" id="nombreCompleto" name="nombreCompleto" placeholder="Nombre Completo (*)" required>
+            </div>
+
+            <label id="lblCamposObligatorios">(*) Campos Obligatorios</label>
+        </fieldset>
+        <fieldset id="columnaDos">
+            <div>
+                <label class="crearEmpleado-label">Fecha de Nacimiento</label>
+                <input type="date" id="fechaNacimiento" name="fechaNacimiento" placeholder="Fecha de Nacimiento" />
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Fecha de Contratación</label>
+                <input type="date" id="fechaContratacion" name="fechaContratacion" placeholder="Fecha de Contratación" />
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Sueldo</label>
+                <input type="number" placeholder="Sueldo (*)" id="sueldo" name="sueldo" required />
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Categoría</label>
+                <select id="categoria" name="categoria">
+                    @foreach (var cat in ViewBag.Categorias)
+                    {
+                        <option id="@cat" selected>@cat</option>
+                    }
+                </select>
+            </div>
+            <div>
+                <label class="crearEmpleado-label">Nombre de usuario</label>
+                <input type="text" id="nombreUsuario" name="nombreUsuario" placeholder="Nombre de usuario" required>
+            </div>
+            <div id="botones">
+                <input type="button" id="limpiar" value="LIMPIAR">
+                <input type="submit" id="crear" value="CREAR">
+            </div>
+        </fieldset>
+    </form>
+}

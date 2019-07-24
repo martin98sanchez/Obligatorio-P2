@@ -1,0 +1,8 @@
+C:\Users\Kadabra\Downloads\obligatorio\Dominio\bin\Debug\Dominio.dll
+C:\Users\Kadabra\Downloads\obligatorio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Kadabra\Downloads\obligatorio\Dominio\obj\Debug\Dominio.dll
+C:\Users\Kadabra\Downloads\obligatorio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\Dominio\bin\Debug\Dominio.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\Dominio\obj\Debug\Dominio.dll
+C:\Users\alumnoFI\Downloads\obligatorio\obligatorio\Dominio\obj\Debug\Dominio.pdb

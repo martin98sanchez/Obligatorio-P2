@@ -1,0 +1,51 @@
+﻿﻿
+@{
+    ViewBag.Title = "ListarProyectosAdmin";
+}
+
+ @if(ViewBag.msg != null)
+{
+    <p class="text-danger">@ViewBag.msg</p>
+}
+
+<input type="submit" value="Registro" name="btnRegistro" />
+
+<table border="1">
+    <thead>
+        <tr>
+            <td>Nombre</td>
+            <td>Duración estimada</td>
+            <td>Fecha Comienzo</td>
+            <td>Finalizado</td>
+            <td>Acción</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in ViewBag.lista)
+        {
+            <tr>
+                <td>@p.Nombre</td>
+                <td>@p.DuracionEstimada</td>
+                <td>@p.FechaComienzo.ToString("MM/dd/yyyy")</td>
+                @if (p.Finalizado)
+                {
+                    <td>SI</td>
+                }
+                else
+                {
+                    <td>NO</td>
+                }
+                <td>
+                    <form method="post">
+                        <input type="hidden" name="nombre" value="@p.Nombre" />
+                        <input type="submit" value="Finalizar" name="submit" />
+                        @if (@p.GetType().Name == "PorHora")
+                        {
+                            <input type="submit" value="Agregar Ausencia" name="submit" />
+                        }
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

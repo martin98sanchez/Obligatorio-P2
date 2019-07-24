@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap" rel="stylesheet">
+    <link href="~/Content/index.css" rel="stylesheet" />
+    <title>@ViewBag.Title - SoftwORT</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body id="crearEmpleado-body">
+    <section class="nav">
+        <div id="logo"><a href="/dashboard"><img src="~/Content/Imagenes/logo.png" alt="SoftwORT" /></a></div>
+        <nav>
+            <ul>
+                <li><a href="/dashboard">Dashboard</a></li>
+                
+                @if (ViewBag.userType == "Empleado")
+                {
+                    <li><a href="/empleado/proyectos">Lista de Proyectos</a></li>
+                    <li><a href="/empleado/ausencias">Ausencias</a></li>
+                }
+                else if (ViewBag.userType == "Administrador")
+                {
+                    <li><a href="/admin/empleados/lista">Lista de Empleados</a></li>
+                    <li><a href="/admin/proyectos/lista">Lista de Proyectos</a></li>
+                }
+                else if (ViewBag.userType == "Cliente")
+                {
+                    <li><a href="/cliente/proyectos">Lista de Proyectos</a></li>
+                }
+            </ul>
+            <ul>
+                <li><a href="/logout">Cerrar Sesión</a></li>
+            </ul>
+        </nav>
+    </section>
+    <section class="header">
+        <header>
+            <h1>@ViewBag.Title</h1>
+        </header>
+        <div id="usuario">
+            <img src="~/Content/Imagenes/iconPersona.png" alt="Foto de perfil" />
+            <p>@ViewBag.nombre</p>
+        </div>
+    </section>
+    <section id="contenido">
+        @RenderBody()
+    </section>
+    <footer>
+        <div class="circulos-agrupados">
+            <img src="~/Content/Imagenes/facebook.svg" alt="Facebook" />
+            <img src="~/Content/Imagenes/instagram.svg" alt="Instagram" />
+            <img src="~/Content/Imagenes/twitter.svg" alt="Twitter" />
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

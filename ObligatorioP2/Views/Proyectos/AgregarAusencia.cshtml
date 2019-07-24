@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Registrar Ausencia";
+}
+
+<form method="post">
+    <label>Horas:</label><input type="text" value="" name="Horas" />
+    <br />
+    <label>Id Empleado:</label>
+    <select  name="IdEmpleado" >
+        @foreach (var e in ViewBag.Proyecto.Empleados)
+        {
+            <option value="@e.Id">@e.NombreCompleto</option>
+        }
+    </select>
+    <br />
+    <input type="hidden" value="@ViewBag.Proyecto.Nombre" name="proyecto" />
+    <br />
+    <input type="submit" value="Agregar" name="sbtAusencia" />
+</form>
